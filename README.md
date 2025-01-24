@@ -137,7 +137,7 @@ def 弱口令漏洞():
 
 ## 📜 黑暗艺术证书
 - **AWS黑魔法师认证** (自颁)
-
+- **SCSA** (Sangfor Certified Security Associate)
 ---
 
 ## 📡 安全通信协议
