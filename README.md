@@ -1,89 +1,110 @@
 <!-- 
-  ╔═╗┌─┐┌─┐┬─┐  ╔╗ ┌─┐┌─┐┬┌─
-  ║  ├─┤├─┘├┬┘  ╠╩╗│ ││ │├┴┐
-  ╚═╝┴ ┴┴  ┴└─  ╚═╝└─┘└─┘┴ ┴
-  找到这个注释的人获得「源码侦探」称号
+  ███████╗ ██████╗  ██████╗██╗  ██╗██╗███╗   ██╗███████╗
+  ██╔════╝██╔═══██╗██╔════╝██║  ██║██║████╗  ██║██╔════╝
+  █████╗  ██║   ██║██║     ███████║██║██╔██╗ ██║█████╗  
+  ██╔══╝  ██║   ██║██║     ██╔══██║██║██║╚██╗██║██╔══╝  
+  ██║     ╚██████╔╝╚██████╗██║  ██║██║██║ ╚████║███████╗
+  ╚═╝      ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝
 -->
-# ⚡ [你的名字] —— 专业漏洞猎手
+# 🕶️ 9Insomnie | 红队渗透专家 | 永动机型失眠患者 
 
-[![代码雨](https://media.giphy.com/media/V4NSR1NG2p0KeJyr2j/giphy.gif)](https://giphy.com/gifs/V4NSR1NG2p0KeJyr2j)  
-<!-- flag{watch_the_matrix} -->
+[![HTB](https://img.shields.io/badge/HackTheBox-Machine%20Master-red?logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/你的ID)
+[![漏洞猎人](https://img.shields.io/badge/Bugcrowd-Top%20100%20Hunter-orange?logo=bugcrowd)](https://bugcrowd.com/9Insomnie)
+[![咖啡计量](https://img.shields.io/badge/咖啡因浓度-足以黑进卫星系统-critical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[![Hack The Planet](https://img.shields.io/badge/人生信条-Hack_The_Planet-ff69b4)](https://imgflip.com/i/8f4p1q)
-[![咖啡因浓度](https://img.shields.io/badge/咖啡因水平-足以黑进五角大楼-critical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![漏洞探测器](https://img.shields.io/badge/今日扫描-${Math.floor(Math.random()*100000)}个系统-success)](https://xkcd.com/538/)
-
-**漏洞挖掘机 | 红队魔术师 | 甲方失眠制造者**
+**专业制造甲方危机感 | 擅长将WAF变成装饰品 | 业余时间教防火墙做人**
 
 ``` 
-  ╭(◕◡◕)っ✂╯╯╯   ← 正在剪切你的安全边界
-   ▔▔▔▔▔▔▔▔▔▔▔
+  ╭━┳━╭━╭━╮╮
+  ┃┈┈┈┣▅╋▅┫┃  ← 正在绕过你的安全策略
+  ╰┳┻┻┻┻┻┻┻╯
+   ▔▔▔▔▔▔▔▔
 ```
 
 ---
 
-## 🛠️ 武器库
+## 🔥 武器库（不断进化中）
 
-<!-- flag{tools_of_the_trade} -->
+[![红队工具链](https://skillicons.dev/icons?i=py,bash,powershell,aws,azure,docker,raspberrypi,linux&theme=dark&perline=8)]
+
+**核心技能**  
 ```python
-class MySkills:
-    def __init__(self):
-        self.web_hacking = ["SQLi", "XSS", "RCE", "SSRF"]
-        self.red_team = ["Cobalt Strike", "Mimikatz", "BloodHound"]
-        self.superpower = "把任何设备变成代理节点"
-        
-    def __repr__(self):
-        return "0day制造机 ver 2.3.37"
+def night_ops():
+    绕过EDR()
+    种植持久化后门()
+    while 未被发现:
+        横向移动()
+        数据渗出()
 ```
 
-[![技术图标](https://skillicons.dev/icons?i=linux,python,bash,aws,docker,raspberrypi&theme=dark&perline=6)]
+**装备清单**  
+- **C2框架**: Cobalt Strike / Sliver / Mythic
+- **魔法书**: 《内网渗透的100种体位》
+- **护身符**: 祖传的免杀马生成脚本
 
 ---
 
-## 🎯 战绩墙
+## 🎯 经典战役
 
-### 项目1: [让防火墙怀疑人生的测试](javascript:alert('这只是个恶作剧'))
+### 1. [银行系统全域突破](https://github.com/9Insomnie/RedTeam-Operations)
 ```diff
-+ 发现某银行系统平行越权漏洞
-! 通过咖啡机入侵企业内网
-- 触发IDS警报次数: 114次
++ 从外网打点到域控接管仅用4小时
+! 发现并利用0day获取SWIFT系统权限
+- 触发告警次数：0 (完美隐身)
 ```
+**战术亮点**  
+`钓鱼攻击 → 突破边界 → 权限维持 → 票据传递 → 数据收割`
 
-### 项目2: [自动甩锅系统](https://github.com/example)
+### 2. [某云服务供应链攻击](https://github.com/9Insomnie/Cloud-Pwn)
 ```bash
 #!/bin/bash
-# 使用方法：当误删生产环境时
-curl -X POST https://api.excuse-generator/v1 \
-  -d "reason=这显然是第三方库的兼容性问题"
+# 自动化云凭据收割机
+curl -s "https://metadata.google.internal/computeMetadata/v1/..." -H "Metadata-Flavor: Google"
+```
+**战果**  
+- 控制2000+云主机实例
+- 发现IAM配置错误导致的特权提升链
+
+### 3. [CTF夺冠神器](https://github.com/9Insomnie/CTF-Toolkit)
+[![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=CTF-Toolkit&theme=dark)](https://github.com/9Insomnie/CTF-Toolkit)
+
+---
+
+## 🏆 非典型成就
+
+```diff
++ 连续熬夜记录保持者（72小时不睡）
+! 因提交太多漏洞被云厂商VIP拉黑
+- 试图入侵智能咖啡机反被扣留马克杯
+# 荣获甲方颁发的「最佳危机感制造奖」
 ```
 
 ---
 
-## 📜 非权威认证
-- **熬夜锦标赛** 连续三年卫冕冠军
-- **最佳甩锅话术** 黑客奥斯卡提名
-- **咖啡因静脉注射** 专业认证
+## 📜 黑暗艺术证书
+- **OSEP** (Offensive Security Experienced Penetrator) 
+- **CRTO** (Certified Red Team Operator)
+- **AWS黑魔法师认证** (自颁)
 
 ---
 
-## 🕵️ 联系密道
-<!-- flag{contact_me_if_you_can} -->
-```
-  加密通信协议：
-  1. 在任意网站控制台输入：thecakeisalie
-  2. 等待三只乌鸦飞过窗口
-  3. 你的电脑会自动发送摩尔斯电码
-```
+## 📡 安全通信协议
+[![PGP](https://img.shields.io/badge/PGP-0xABCD1234-lightgrey)](https://keys.openpgp.org/)
+[![应急响应](https://img.shields.io/badge/7x24小时响应-点击召唤-red?style=for-the-badge)](https://t.me/9Insomnie_RedAlert)
+
+**暗号验证**  
+在任意网站控制台输入：  
+`console.log("Flag格式: flag{night_owl_"+Math.PI.toFixed(2)+"}")`
 
 ---
 
-[![战绩面板](https://github-readme-stats.vercel.app/api?username=你的账号&show_icons=true&theme=merko&hide_title=true)](https://github.com/你的账号)
-[![武器库统计](https://github-readme-stats.vercel.app/api/top-langs/?username=你的账号&layout=compact&theme=vision-friendly-dark)](https://github.com/你的账号)
+[![GitHub战绩](https://github-readme-stats.vercel.app/api?username=9Insomnie&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/9Insomnie)
+[![武器使用统计](https://github-readme-stats.vercel.app/api/top-langs/?username=9Insomnie&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/9Insomnie)
 
 <!-- 
-  终极挑战：
-  1. 找到所有3个隐藏flag
-  2. 解密这个base64彩蛋：R0lGODdhAQABAIAAAP///////ywAAAAAAQABAAACAkQBADs=
-  3. 答案藏在某个GIF的URL中
+  终极彩蛋：
+  1. 查看页面源码找隐藏flag
+  2. 计算console暗号中的π值
+  3. 答案藏在某个仓库的README中 
 -->
 ```
