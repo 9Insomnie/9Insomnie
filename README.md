@@ -119,15 +119,16 @@ def 弱口令漏洞():
         print("🤖 防御系统：您可能是合法用户")
 ``` 
 
-### 🕶️ 红队神器「百宝箱」
+### 3. 🕶️ 红队双星
 [![TokyoRain](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=TokyoRain&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 [![Nanjing](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=Nanjing&theme=dark)](https://github.com/9Insomnie/Nanjing)
 
-**武器说明书**  
+**一句话说明书**  
 ```diff
-+ TokyoRain：内网穿透の天降正义  
-! Nanjing：权限维持の六朝烟水  
-- 组合技效果：让防御者体验赛博秦淮河夜游
++ TokyoRain：让恶意代码像东京雨一样无处不在却不可捉摸
+! Nanjing：文件传输界的六朝古都，小而美的安全港湾
+- 组合效果：防御者眼中的"完美犯罪"
+---
 
 ## 🏆 非典型成就
 
