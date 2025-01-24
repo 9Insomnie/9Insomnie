@@ -65,7 +65,7 @@ curl -s "https://metadata.google.internal/computeMetadata/v1/..." -H "Metadata-F
 - 发现IAM配置错误导致的特权提升链
 
 ### 3. [CTF夺冠神器](https://github.com/9Insomnie/CTF-Toolkit)
-[![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=CTF-Toolkit&theme=dark)](https://github.com/9Insomnie/CTF-Toolkit)
+[![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=CTF-Toolkit&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 
 ---
 
@@ -81,8 +81,6 @@ curl -s "https://metadata.google.internal/computeMetadata/v1/..." -H "Metadata-F
 ---
 
 ## 📜 黑暗艺术证书
-- **OSEP** (Offensive Security Experienced Penetrator) 
-- **CRTO** (Certified Red Team Operator)
 - **AWS黑魔法师认证** (自颁)
 
 ---
