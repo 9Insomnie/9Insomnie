@@ -119,7 +119,7 @@ def 弱口令漏洞():
         print("🤖 防御系统：您可能是合法用户")
 ``` 
 
-### 3. [CTF夺冠神器](https://github.com/9Insomnie/CTF-Toolkit)
+### 3. [内网神器](https://github.com/9Insomnie/TokyoRain)
 [![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=TokyoRain&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 
 ---
