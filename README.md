@@ -65,7 +65,7 @@ echo "正在检测系统的安全意识薄弱程度..."
 
 # 快乐扫描模块
 function happy_scan() {
-    target="http://gov-example.com/login"  # 请替换成实际目标
+    target="http://gov-example.com/login"
     echo "🔍 发现疑似SQL游乐场，正在投放彩虹糖型Payload..."
     
     # 假装有酷炫扫描动画
@@ -80,12 +80,12 @@ function happy_scan() {
 
 # 权限狂欢模块
 function admin_party() {
-    echo "🎉 发现弱口令彩蛋：admin/Admin123!"
+    echo "🎉 发现弱口令彩蛋：admin/123456"
     echo "🕶️ 正在尝试兑换管理员皮肤..."
     
     # 模拟权限升级过程
     curl -s "$target" -X POST \
-        -d "username=admin&password=Admin123!" \
+        -d "username=admin&password=123456" \
         -o /dev/null \
         -w "
         \033[32m[SUCCESS]\033[0m HTTP状态码: %{http_code}
@@ -112,7 +112,7 @@ admin_party
 def 弱口令漏洞():
     用户名 = input("请输入管理员账号：")
     密码 = input("请输入密码：")
-    if 密码 == "Admin123!":  # 魔法字符串检测
+    if 密码 == "123456":  # 魔法字符串检测
         print("🎉 特权解锁！")
         return 超级管理员权限
     else:
