@@ -141,7 +141,6 @@ def 弱口令漏洞():
 ---
 
 ## 📡 安全通信协议
-[![PGP](https://img.shields.io/badge/PGP-0xABCD1234-lightgrey)](https://keys.openpgp.org/)
 [![应急响应](https://img.shields.io/badge/7x24小时响应-点击召唤-red?style=for-the-badge)](https://t.me/Insomnie7)
 
 **暗号验证**  
