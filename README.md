@@ -119,14 +119,7 @@ def 弱口令漏洞():
         print("🤖 防御系统：您可能是合法用户")
 ``` 
 
-### 3. [红队版「哆啦A梦口袋」装备清单]
-[![武器](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=TokyoRain&theme=dark)](https://github.com/9Insomnie/TokyoRain)
-
-[![武器](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=Nanjing&theme=dark)](https://github.com/9Insomnie/Nanjing)
-
----
-
-### 3. 🕶️ 红队神器「百宝箱」
+### 🕶️ 红队神器「百宝箱」
 [![TokyoRain](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=TokyoRain&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 [![Nanjing](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=Nanjing&theme=dark)](https://github.com/9Insomnie/Nanjing)
 
