@@ -119,12 +119,22 @@ def 弱口令漏洞():
         print("🤖 防御系统：您可能是合法用户")
 ``` 
 
-### 3. [内网神器](https://github.com/9Insomnie/TokyoRain)
+### 3. [红队版「哆啦A梦口袋」装备清单]
 [![武器](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=TokyoRain&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 
 [![武器](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=Nanjing&theme=dark)](https://github.com/9Insomnie/Nanjing)
 
 ---
+
+### 3. 🕶️ 红队神器「百宝箱」
+[![TokyoRain](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=TokyoRain&theme=dark)](https://github.com/9Insomnie/TokyoRain)
+[![Nanjing](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=Nanjing&theme=dark)](https://github.com/9Insomnie/Nanjing)
+
+**武器说明书**  
+```diff
++ TokyoRain：内网穿透の天降正义  
+! Nanjing：权限维持の六朝烟水  
+- 组合技效果：让防御者体验赛博秦淮河夜游
 
 ## 🏆 非典型成就
 
