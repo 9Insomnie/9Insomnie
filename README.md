@@ -122,7 +122,7 @@ def 弱口令漏洞():
 ### 3. [内网神器](https://github.com/9Insomnie/TokyoRain)
 [![武器](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=TokyoRain&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 
-[![武器](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=Nanjin&theme=dark)](https://github.com/9Insomnie/Nanjing)
+[![武器](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=Nanjing&theme=dark)](https://github.com/9Insomnie/Nanjing)
 
 ---
 
