@@ -45,19 +45,6 @@ def night_ops():
 
 ---
 
-### 3. 🕶️ 红队双星
-[![TokyoRain](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=TokyoRain&theme=dark)](https://github.com/9Insomnie/TokyoRain)
-[![Nanjing](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=Nanjing&theme=dark)](https://github.com/9Insomnie/Nanjing)
-
-**一句话说明书**  
-```diff
-+ TokyoRain：让PowerShell载荷像东京细雨般隐秘
-! Nanjing：令人兴奋的迷你安全文件上传服务器
-- 组合效果：防御者眼中的"完美犯罪"
-```
-
----
-
 ## 🏆 非典型成就
 ```diff
 + 连续熬夜记录保持者（72小时不睡）
