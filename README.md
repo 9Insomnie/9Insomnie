@@ -18,7 +18,8 @@
 
 ![红队工具链](https://skillicons.dev/icons?i=py,bash,powershell,aws,azure,docker,raspberrypi,linux&theme=dark&perline=8)
 
-**核心技能**  
+## ⚙️ 核心技能
+
 ```python
 def night_ops():
     绕过EDR()
@@ -28,14 +29,16 @@ def night_ops():
         数据渗出()
 ```
 
-**装备清单**  
+## 🧰 装备清单
+
 - **C2框架**: Cobalt Strike / Sliver / Metasploit
 - **魔法书**: 《内网渗透的100种姿势》
 - **护身符**: 祖传的免杀马生成脚本
 
 ---
 
-**战果展示**  
+## 🏆 战果展示
+
 ```diff
 + 💥 控制233个高权限账户（可自由切换皮肤）
 + 🎩 获得管理员VIP通行证（有效期：永久）
@@ -45,7 +48,7 @@ def night_ops():
 
 ---
 
-## 🏆 非典型成就
+## 🏅 非典型成就
 ```diff
 + 连续熬夜记录保持者（72小时不睡）
 ! 因提交太多漏洞被云厂商VIP拉黑
