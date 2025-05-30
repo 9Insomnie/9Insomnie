@@ -43,80 +43,12 @@ def night_ops():
 
 ---
 
-## 🎯 经典战役
-
-### 1. [某云平台全域突破]
-```diff
-+ 从外网打点到域控接管仅用4小时
-! 发现并利用Nday获取SWIFT系统权限
-- 触发告警次数：0 (完美隐身)
-```
-**战术亮点**  
-`Nday攻击 → 突破边界 → 权限维持 → 票据传递 → 数据收割`
-
-### 2. [某市政务系统「快乐闯关」记录]
-```bash
-#!/bin/bash
-# 政务系统自助提权小助手 v1.3.37
-# 警告：运行此脚本可能导致甲方系统获得"通透"特性
-
-echo "🎮 启动快乐提权模式..."
-echo "正在检测系统的安全意识薄弱程度..."
-
-# 快乐扫描模块
-function happy_scan() {
-    target="http://gov-example.com/login"
-    echo "🔍 发现疑似SQL游乐场，正在投放彩虹糖型Payload..."
-    
-    # 假装有酷炫扫描动画
-    for i in {1..5}; do
-        echo -n "正在绕过WAF: [${i}/5] "
-        echo -ne "\033[33m"  # 黄色进度条
-        printf '█%.0s' $(seq 1 $i)
-        echo -e "\033[0m"
-        sleep 0.5
-    done
-}
-
-# 权限狂欢模块
-function admin_party() {
-    echo "🎉 发现弱口令彩蛋：admin/123456"
-    echo "🕶️ 正在尝试兑换管理员皮肤..."
-    
-    # 模拟权限升级过程
-    curl -s "$target" -X POST \
-        -d "username=admin&password=123456" \
-        -o /dev/null \
-        -w "
-        \033[32m[SUCCESS]\033[0m HTTP状态码: %{http_code}
-        \033[33m[COOKIE]\033[0m   %{cookie_parse}"
-}
-
-# 战利品统计
-echo "📊 本次快乐闯关成绩单："
-happy_scan
-admin_party
-```
-
 **战果展示**  
 ```diff
 + 💥 控制233个高权限账户（可自由切换皮肤）
 + 🎩 获得管理员VIP通行证（有效期：永久）
 ! ☕ 意外发现咖啡机控制接口（已实现免费续杯）
 - 🛡️ 系统防御机制响应时间：超过48小时（建议升级为速效救心丸）
-```
-
-**漏洞原理**  
-```python
-# 伪代码解释器
-def 弱口令漏洞():
-    用户名 = input("请输入管理员账号：")
-    密码 = input("请输入密码：")
-    if 密码 == "123456":  # 魔法字符串检测
-        print("🎉 特权解锁！")
-        return 超级管理员权限
-    else:
-        print("🤖 防御系统：您可能是合法用户")
 ```
 
 ---
