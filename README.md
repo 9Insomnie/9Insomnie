@@ -1,6 +1,6 @@
 # 🕶️ n0irx | 非红队渗透专家 | 永动失眠体质患者
 
-[![HTB](https://img.shields.io/badge/HackTheBox-HackTheBox-red?logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/1983709)
+[![HTB](https://img.shields.io/badge/HackTheBox-Hacker-red?logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/1983709)
 [![咖啡因浓度](https://img.shields.io/badge/Caffeine%20Concentration-足以入侵卫星系统-critical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
@@ -38,8 +38,8 @@ def night_ops():
 ## 🧰 装备清单
 
 * **C2 框架**：Cobalt Strike / Sliver / Metasploit
-* **魔法宝典**：《渗透内网的一百种方法》
-* **护身符**：祖传免杀马生成脚本
+* **魔法宝典**：《渗透内网的一百种姿势》
+* **护身符**：祖传免杀马生成工具
 
 ---
 
@@ -87,5 +87,3 @@ console.log("Flag format: flag{night_owl_"+Math.PI.toFixed(2)+"}")
 
 [![GitHub 统计](https://github-readme-stats.vercel.app/api?username=9Insomnie\&show_icons=true\&theme=merko\&count_private=true\&include_all_commits=true)](https://github.com/9Insomnie)
 [![武器使用频率](https://github-readme-stats.vercel.app/api/top-langs/?username=9Insomnie\&layout=compact\&theme=vision-friendly-dark\&hide=html,css)](https://github.com/9Insomnie)
-
----
