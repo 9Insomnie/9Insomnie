@@ -76,11 +76,11 @@ def night_ops():
 
 [![应急响应](https://img.shields.io/badge/7x24-小时响应-点击召唤-red?style=for-the-badge&logo=telegram)](https://t.me/Insomnie7)
 
-**密语验证**
-在任意网站控制台输入以下代码：
+**密语验证** 在任意网站控制台输入以下代码：
 
 ```js
-console.log("Flag format: flag{night_owl_"+Math.PI.toFixed(2)+"}")
+console.log("Flag format: flag{night_owl_" + Math.PI.toFixed(2) + "}")
+
 ```
 
 ---
