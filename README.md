@@ -1,5 +1,3 @@
----
-
 # 🕶️ 9Insomnie | 非红队渗透专家 | 永动失眠体质患者
 
 [![HTB](https://img.shields.io/badge/HackTheBox-主机大师-red?logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/1983709)
