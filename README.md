@@ -74,7 +74,7 @@ def night_ops():
 
 ## 📡 安全通信协议
 
-[![应急响应](https://img.shields.io/badge/7x24-%E5%B0%8F%E6%97%B6%E5%93%8D%E5%BA%94-%E7%82%B9%E5%87%BB%E5%8F%AC%E5%94%A4-red?style=for-the-badge)](https://t.me/Insomnie7)
+[![Emergency Response](https://img.shields.io/badge/7x24-Hour_Response-Click_to_Summon-red?style=for-the-badge)](https://t.me/Insomnie7)
 
 **密语验证**
 在任意网站控制台输入以下代码：
