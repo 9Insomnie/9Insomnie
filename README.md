@@ -1,7 +1,7 @@
 # 🕶️ n0irx | 非红队渗透专家 | 永动失眠体质患者
 
 [![HTB](https://img.shields.io/badge/HackTheBox-Hacker-red?logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/1983709)
-[![咖啡因浓度](https://img.shields.io/badge/Caffeine%20Concentration-足以入侵卫星系统-critical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![咖啡因浓度](https://img.shields.io/badge/咖啡因浓度-足以入侵卫星系统-critical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
