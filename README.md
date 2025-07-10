@@ -65,7 +65,7 @@ curl -s "https://metadata.google.internal/computeMetadata/v1/..." -H "Metadata-F
 - 控制2000+云主机实例
 - 发现IAM配置错误导致的特权提升链
 
-### 3. [CTF夺冠神器](https://github.com/9Insomnie/CTF-Toolkit)
+### 3. [CTF夺冠神器](https://github.com/9Insomnie/TokyoRain)
 [![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=CTF-Toolkit&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 
 ---
