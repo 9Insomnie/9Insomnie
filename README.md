@@ -76,8 +76,7 @@ def night_ops():
 ---
 
 ## 📡 安全通信协议
-[![PGP](https://img.shields.io/badge/PGP-0xABCD1234-lightgrey)](https://keys.openpgp.org/)
-[![应急响应](https://img.shields.io/badge/7x24小时响应-点击召唤-red?style=for-the-badge)](https://t.me/9Insomnie_RedAlert)
+[![应急响应](https://img.shields.io/badge/7x24小时响应-点击召唤-red?style=for-the-badge)](https://t.me/9Insomnie)
 
 **暗号验证**  
 在任意网站控制台输入：  
