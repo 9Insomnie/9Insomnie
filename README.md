@@ -1,89 +1,121 @@
-# 🕶️ n0irx | 非红队渗透专家 | 永动失眠体质患者
+<!-- 
+  ███████╗ ██████╗  ██████╗██╗  ██╗██╗███╗   ██╗███████╗
+  ██╔════╝██╔═══██╗██╔════╝██║  ██║██║████╗  ██║██╔════╝
+  █████╗  ██║   ██║██║     ███████║██║██╔██╗ ██║█████╗  
+  ██╔══╝  ██║   ██║██║     ██╔══██║██║██║╚██╗██║██╔══╝  
+  ██║     ╚██████╔╝╚██████╗██║  ██║██║██║ ╚████║███████╗
+  ╚═╝      ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝
+-->
+# 🕶️ 9Insomnie | 红队渗透专家 | 永动机型失眠患者 
 
-[![HTB](https://img.shields.io/badge/HackTheBox-Hacker-red?logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/1983709)
-[![咖啡因浓度](https://img.shields.io/badge/咖啡因浓度-足以入侵卫星系统-critical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![HTB](https://img.shields.io/badge/HackTheBox-Machine%20Master-red?logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/你的ID)
+[![漏洞猎人](https://img.shields.io/badge/Bugcrowd-Top%20100%20Hunter-orange?logo=bugcrowd)](https://bugcrowd.com/9Insomnie)
+[![咖啡计量](https://img.shields.io/badge/咖啡因浓度-足以黑进卫星系统-critical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
----
+**专业制造甲方危机感 | 擅长将WAF变成装饰品 | 业余时间教防火墙做人**
 
-## 专业制造客户焦虑 | 擅长把 WAF 变装饰品 | 业余时间教防火墙讲礼貌
-
+``` 
+  ╭━┳━╭━╭━╮╮
+  ┃┈┈┈┣▅╋▅┫┃  ← 正在绕过你的安全策略
+  ╰┳┻┻┻┻┻┻┻╯
+   ▔▔▔▔▔▔▔▔
 ```
-╭━┳━╭━╭━╮╮
-┃┈┈┈┣▅╋▅┫┃  ← 当前正在绕过你的安全策略
-╰┳┻┻┻┻┻┻┻╯
-▔▔▔▔▔▔▔▔
-```
 
 ---
 
-## 🔥 工具库（持续进化中）
+## 🔥 武器库（不断进化中）
 
-![红队工具链](https://skillicons.dev/icons?i=py,bash,powershell,aws,azure,docker,raspberrypi,linux\&theme=dark\&perline=8)
+[![红队工具链](https://skillicons.dev/icons?i=py,bash,powershell,aws,azure,docker,raspberrypi,linux&theme=dark&perline=8)]
 
----
-
-## ⚙️ 核心技能
-
+**核心技能**  
 ```python
 def night_ops():
-    bypass_EDR()
-    plant_persistent_backdoor()
-    while not_detected:
-        lateral_movement()
-        data_exfiltration()
+    绕过EDR()
+    种植持久化后门()
+    while 未被发现:
+        横向移动()
+        数据渗出()
 ```
 
----
-
-## 🧰 装备清单
-
-* **C2 框架**：Cobalt Strike / Sliver / Metasploit
-* **魔法宝典**：《渗透内网的一百种姿势》
-* **护身符**：祖传免杀马生成工具
+**装备清单**  
+- **C2框架**: Cobalt Strike / Sliver / Mythic
+- **魔法书**: 《内网渗透的100种体位》
+- **护身符**: 祖传的免杀马生成脚本
 
 ---
 
-## 🏆 战绩成就
+## 🎯 经典战役
+
+### 1. [银行系统全域突破](https://github.com/9Insomnie/RedTeam-Operations)
+```diff
++ 从外网打点到域控接管仅用4小时
+! 发现并利用0day获取SWIFT系统权限
+- 触发告警次数：0 (完美隐身)
+```
+**战术亮点**  
+`钓鱼攻击 → 突破边界 → 权限维持 → 票据传递 → 数据收割`
+
+### 2. [某云服务供应链攻击](https://github.com/9Insomnie/Cloud-Pwn)
+```bash
+#!/bin/bash
+# 自动化云凭据收割机
+curl -s "https://metadata.google.internal/computeMetadata/v1/..." -H "Metadata-Flavor: Google"
+```
+**战果**  
+- 控制2000+云主机实例
+- 发现IAM配置错误导致的特权提升链
+
+### 3. [CTF夺冠神器](https://github.com/9Insomnie/CTF-Toolkit)
+[![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=CTF-Toolkit&theme=dark)](https://github.com/9Insomnie/CTF-Toolkit)
+
+---
+
+## 🏆 非典型成就
 
 ```diff
-+ 💥 控制了 233 个高权限账户（可自由切换皮肤）
-+ 🎩 获得管理员 VIP 通行证（有效期：永久）
-! ☕ 无意间发现咖啡机控制接口（已实现无限续杯）
-- 🛡️ 系统防御机制响应时间：超过 48 小时（建议升级成“速效救心丸”）
++ 连续熬夜记录保持者（72小时不睡）
+! 因提交太多漏洞被云厂商VIP拉黑
+- 试图入侵智能咖啡机反被扣留马克杯
+# 荣获甲方颁发的「最佳危机感制造奖」
 ```
 
 ---
 
-## 🏅 非典型成就
-
-```diff
-+ 保持连续失眠记录（72 小时无睡眠）
-! 因提交漏洞过多被云厂商 VIP 拉黑
-- 尝试入侵智能咖啡机时被杯子反杀
-# 被客户授予“最佳焦虑制造者”称号
-```
-
----
-
-## 📜 黑魔法认证
-
-* **AWS 黑巫术认证**（自颁）
-* **SCSA**（深信服认证安全工程师）
+## 📜 黑暗艺术证书
+- **OSEP** (Offensive Security Experienced Penetrator) 
+- **CRTO** (Certified Red Team Operator)
+- **AWS黑魔法师认证** (自颁)
 
 ---
 
 ## 📡 安全通信协议
+[![PGP](https://img.shields.io/badge/PGP-0xABCD1234-lightgrey)](https://keys.openpgp.org/)
+[![应急响应](https://img.shields.io/badge/7x24小时响应-点击召唤-red?style=for-the-badge)](https://t.me/9Insomnie_RedAlert)
 
-[![应急响应](https://img.shields.io/badge/7x24-小时响应-点击召唤-red?style=for-the-badge&logo=telegram)](https://t.me/Insomnie7)
+**暗号验证**  
+在任意网站控制台输入：  
+`console.log("Flag格式: flag{night_owl_"+Math.PI.toFixed(2)+"}")`
 
-**密语验证** 在任意网站控制台输入以下代码：
+---
 
-```js
-console.log("Flag format: flag{night_owl_" + Math.PI.toFixed(2) + "}")
+[![GitHub战绩](https://github-readme-stats.vercel.app/api?username=9Insomnie&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/9Insomnie)
+[![武器使用统计](https://github-readme-stats.vercel.app/api/top-langs/?username=9Insomnie&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/9Insomnie)
 
+<!-- 
+  终极彩蛋：
+  1. 查看页面源码找隐藏flag
+  2. 计算console暗号中的π值
+  3. 答案藏在某个仓库的README中 
+-->
 ```
 
 ---
 
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=9Insomnie\&show_icons=true\&theme=merko\&count_private=true\&include_all_commits=true)](https://github.com/9Insomnie)
-[![武器使用频率](https://github-readme-stats.vercel.app/api/top-langs/?username=9Insomnie\&layout=compact\&theme=vision-friendly-dark\&hide=html,css)](https://github.com/9Insomnie)
+### ✨ 亮点说明：
+1. **动态身份契合** - 结合你的用户名"失眠者"设计熬夜主题
+2. **红队技术可视化** - 用代码段演示攻击链流程
+3. **真实项目入口** - 直接链接到你的CTF-Toolkit等仓库
+4. **隐蔽彩蛋系统** - 需要技术手段才能获取完整flag
+5. **专业度平衡** - 既展示OSEP/CRTO等认证，又不失幽默感
+
+替换`你的ID`等占位符后即可使用，建议搭配你的实际项目截图和漏洞报告食用更佳 🍻
