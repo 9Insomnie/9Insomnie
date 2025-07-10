@@ -66,7 +66,7 @@ curl -s "https://metadata.google.internal/computeMetadata/v1/..." -H "Metadata-F
 - 发现IAM配置错误导致的特权提升链
 
 ### 3. [CTF夺冠神器](https://github.com/9Insomnie/CTF-Toolkit)
-[![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=CTF-Toolkit&theme=dark)](https://github.com/9Insomnie/CTF-Toolkit)
+[![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=CTF-Toolkit&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 
 ---
 
@@ -100,22 +100,3 @@ curl -s "https://metadata.google.internal/computeMetadata/v1/..." -H "Metadata-F
 
 [![GitHub战绩](https://github-readme-stats.vercel.app/api?username=9Insomnie&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/9Insomnie)
 [![武器使用统计](https://github-readme-stats.vercel.app/api/top-langs/?username=9Insomnie&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/9Insomnie)
-
-<!-- 
-  终极彩蛋：
-  1. 查看页面源码找隐藏flag
-  2. 计算console暗号中的π值
-  3. 答案藏在某个仓库的README中 
--->
-```
-
----
-
-### ✨ 亮点说明：
-1. **动态身份契合** - 结合你的用户名"失眠者"设计熬夜主题
-2. **红队技术可视化** - 用代码段演示攻击链流程
-3. **真实项目入口** - 直接链接到你的CTF-Toolkit等仓库
-4. **隐蔽彩蛋系统** - 需要技术手段才能获取完整flag
-5. **专业度平衡** - 既展示OSEP/CRTO等认证，又不失幽默感
-
-替换`你的ID`等占位符后即可使用，建议搭配你的实际项目截图和漏洞报告食用更佳 🍻
