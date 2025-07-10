@@ -46,7 +46,7 @@ def night_ops():
 
 ## 🎯 经典战役
 
-### 1. [银行系统全域突破](https://github.com/9Insomnie/RedTeam-Operations)
+### 1. [系统全域突破](https://github.com/9Insomnie/RedTeam-Operations)
 ```diff
 + 从外网打点到域控接管仅用4小时
 ! 发现并利用0day获取SWIFT系统权限
@@ -54,19 +54,6 @@ def night_ops():
 ```
 **战术亮点**  
 `钓鱼攻击 → 突破边界 → 权限维持 → 票据传递 → 数据收割`
-
-### 2. [某云服务供应链攻击](https://github.com/9Insomnie/Cloud-Pwn)
-```bash
-#!/bin/bash
-# 自动化云凭据收割机
-curl -s "https://metadata.google.internal/computeMetadata/v1/..." -H "Metadata-Flavor: Google"
-```
-**战果**  
-- 控制2000+云主机实例
-- 发现IAM配置错误导致的特权提升链
-
-### 3. [CTF夺冠神器](https://github.com/9Insomnie/TokyoRain)
-[![CTF战绩](https://github-readme-stats.vercel.app/api/pin/?username=9Insomnie&repo=CTF-Toolkit&theme=dark)](https://github.com/9Insomnie/TokyoRain)
 
 ---
 
