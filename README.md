@@ -56,8 +56,6 @@ def night_ops():
 ---
 
 ## 📜 黑暗艺术证书
-- **OSEP** (Offensive Security Experienced Penetrator) 
-- **CRTO** (Certified Red Team Operator)
 - **AWS黑魔法师认证** (自颁)
 
 ---
