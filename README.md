@@ -39,7 +39,7 @@ def night_ops():
 
 **装备清单**  
 - **C2框架**: Cobalt Strike / Sliver / Mythic
-- **魔法书**: 《内网渗透的100种体位》
+- **魔法书**: 《内网渗透的100种姿势》
 - **护身符**: 祖传的免杀马生成脚本
 
 ---
@@ -63,11 +63,9 @@ def night_ops():
 ## 📡 安全通信协议
 [![应急响应](https://img.shields.io/badge/7x24小时响应-点击召唤-red?style=for-the-badge)](https://t.me/9Insomnie)
 
-**暗号验证**  
-在任意网站控制台输入：  
-`console.log("Flag格式: flag{night_owl_"+Math.PI.toFixed(2)+"}")`
-
 ---
 
 [![GitHub战绩](https://github-readme-stats.vercel.app/api?username=9Insomnie&show_icons=true&theme=merko&count_private=true&include_all_commits=true)](https://github.com/9Insomnie)
 [![武器使用统计](https://github-readme-stats.vercel.app/api/top-langs/?username=9Insomnie&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/9Insomnie)
+
+---
