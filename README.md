@@ -61,7 +61,7 @@ def night_ops():
 ---
 
 ## 📡 安全通信协议
-[![应急响应](https://img.shields.io/badge/7x24小时响应-点击召唤-red?style=for-the-badge)]([https://t.me/Insomnie7]
+[![应急响应](https://img.shields.io/badge/7x24小时响应-点击召唤-red?style=for-the-badge)](https://t.me/Insomnie7)
 
 ---
 
