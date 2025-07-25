@@ -38,7 +38,7 @@ def night_ops():
 ```
 
 **装备清单**  
-- **C2框架**: Cobalt Strike / Sliver / Mythic
+- **C2框架**: Cobalt Strike / Sliver / Metasploit
 - **魔法书**: 《内网渗透的100种姿势》
 - **护身符**: 祖传的免杀马生成脚本
 
