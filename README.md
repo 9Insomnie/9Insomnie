@@ -9,7 +9,7 @@
 # 🕶️ n0irx | 非红队渗透专家 | 永动机型失眠患者 
 
 [![HTB](https://img.shields.io/badge/HackTheBox-Machine%20Master-red?logo=Hack%20The%20Box)](https://app.hackthebox.com/profile/1983709)
-[![H1 resolved](https://img.shields.io/hackerone/resolved/9insomnie)](https://hackerone.com/9insomnie)
+[![H1](https://img.shields.io/badge/HackerOne-9insomnie-orange)](https://hackerone.com/9insomnie)
 [![咖啡计量](https://img.shields.io/badge/咖啡因浓度-足以黑进卫星系统-critical)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 **专业制造甲方危机感 | 擅长将WAF变成装饰品 | 业余时间教防火墙做人**
