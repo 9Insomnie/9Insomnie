@@ -27,32 +27,6 @@
 
 ![红队工具链](https://skillicons.dev/icons?i=py,bash,powershell,aws,azure,docker,raspberrypi,linux&theme=dark&perline=8)
 
-**核心技能**  
-```python
-def night_ops():
-    绕过EDR()
-    种植持久化后门()
-    while 未被发现:
-        横向移动()
-        数据渗出()
-```
-
-**装备清单**  
-- **C2框架**: Cobalt Strike / Sliver / Metasploit
-- **魔法书**: 《内网渗透的100种姿势》
-- **护身符**: 祖传的免杀马生成脚本
-
----
-
-## 🏆 非典型成就
-
-```diff
-+ 连续熬夜记录保持者（72小时不睡）
-! 因提交太多漏洞被云厂商VIP拉黑
-- 试图入侵智能咖啡机反被扣留马克杯
-# 荣获甲方颁发的「最佳危机感制造奖」
-```
-
 ---
 
 ## 📜 黑暗艺术证书
