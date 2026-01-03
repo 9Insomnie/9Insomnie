@@ -1,4 +1,4 @@
-# Hi, I'm 9Insomnie (n0irx) 👋
+# Hi, I'm n0irx 👋
 
 **Security Researcher | Security Tool Developer** 专注于 **二进制安全 (Binary Security)**、**漏洞研究 (Vulnerability Research)** 与 **红队武器化 (Red Team Weaponization)**。
 
