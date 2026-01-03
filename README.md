@@ -30,10 +30,3 @@
 | 📊 总体贡献 (Overall Stats) | 🚀 语言偏好 (Top Languages) |
 | :--- | :--- |
 | ![9Insomnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Insomnie&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9Insomnie&layout=compact&theme=tokyonight&hide_border=true) |
-
----
-
-### 📬 联系与交流 (Connect)
-
-- **Status**: 保持对未知的敬畏，享受深夜的代码与调试。
-- **Reach me**: [你的联系方式，如 Email 或 Blog 链接]
