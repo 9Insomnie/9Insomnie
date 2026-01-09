@@ -22,5 +22,5 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B) 
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
 - **安全领域**: 
-  - `Exploit Development` · `Malware Research` · `Reverse Engineering`
-  - `Intranet Pentest` · `Cloud Security` · `Automated Defense Evasion`
+- `Exploit Development` · `Malware Research` · `Reverse Engineering`
+- `Intranet Pentest` · `Cloud Security` · `Automated Defense Evasion`
